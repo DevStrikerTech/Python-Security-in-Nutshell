@@ -1,5 +1,5 @@
 # Python-Security-in-Nutshell
-Various security scripts in python for educational purposes only.
+Various security scripts on python for educational purposes only.
 
 ![alt text](https://raw.githubusercontent.com/KingCobra2018/Python-Security-in-Nutshell/main/asset/view.jpeg)
 
