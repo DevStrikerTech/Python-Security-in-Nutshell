@@ -9,8 +9,7 @@ Various security scripts in python for educational purposes only.
 2. Subdomain Finder
 3. Keylogger
 4. Virus
-5. Password Generator
-6. Dictionary Attack
+5. Dictionary Attack
 ```
 ## Project setup
 ```
