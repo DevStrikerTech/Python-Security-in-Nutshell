@@ -1,3 +1,5 @@
+[![atl-text-1](https://img.shields.io/badge/Version-3.9.1-blue?logo=Python&style=flat)](https://www.python.org/) [![atl-text-2](https://img.shields.io/badge/License-MIT-blue?logo=License&style=flat)](https://github.com/KingCobra2018/Python-Flask-CMS/blob/master/LICENSE)
+
 # Python-Security-in-Nutshell
 Various security scripts on python for educational purposes only.
 
